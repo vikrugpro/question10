@@ -1,0 +1,8 @@
+table {
+    border-collapse: collapse; /* Убираем двойные линии */
+  }
+  td {
+    border: 1px solid #333; /* Параметры границ */
+    padding: 4px; /* Поля в ячейках */
+    text-align: center; /* Выравнивание по центру */
+  }
